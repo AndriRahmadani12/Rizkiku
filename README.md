@@ -48,7 +48,21 @@ Rizkiku adalah platform konsultasi bisnis yang mempertemukan pelaku UMKM dengan 
 8. **Sesi Konsultasi:**
    - Lakukan sesi konsultasi offline sesuai dengan jadwal yang telah diatur.
 
+## Jenis Akun
 
+
+1. **Pelaku UMKM:**
+   - Akun ini ditujukan untuk pelaku UMKM (Usaha Mikro, Kecil, dan Menengah) yang mencari konsultasi bisnis untuk pengembangan dan pertumbuhan bisnis mereka.
+   - Pengguna UMKM dapat membuat profil bisnis, mencari konsultan, dan mengajukan permohonan konsultasi.
+
+2. **Konsultan Bisnis:**
+   - Akun ini diperuntukkan bagi konsultan bisnis yang memiliki keahlian dan pengetahuan di berbagai bidang.
+   - Konsultan dapat mendaftar, membuat profil, menerima permohonan konsultasi, dan berinteraksi dengan pengguna UMKM untuk memberikan panduan bisnis.
+
+3. **Admin:**
+   - Akun admin memberikan akses kepada pengelola platform untuk mengelola dan memantau aktivitas di Rizkiku.
+   - Admin bertanggung jawab untuk verifikasi akun konsultan, menangani isu teknis, dan menjaga keamanan dan integritas platform.
+   - 
 ## Lisensi
 
 Aplikasi Rizkiku dilisensikan di bawah [Lisensi MIT](LICENSE).
