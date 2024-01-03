@@ -46,11 +46,9 @@ Rizkiku adalah platform konsultasi bisnis yang mempertemukan pelaku UMKM dengan 
    - Setelah pembayaran berhasil, pelaku UMKM akan menerima konfirmasi dan instruksi lebih lanjut untuk persiapan sesi konsultasi.
 
 8. **Sesi Konsultasi:**
-   - Lakukan sesi konsultasi online sesuai dengan jadwal yang telah diatur.
+   - Lakukan sesi konsultasi offline sesuai dengan jadwal yang telah diatur.
 
-## Kontribusi
 
-Jika Anda tertarik untuk berkontribusi pada pengembangan Rizkiku, kami mengundang Anda untuk berpartisipasi dalam proyek ini. Silakan lihat panduan kontribusi di [CONTRIBUTING.md](CONTRIBUTING.md) untuk informasi lebih lanjut.
 
 ## Lisensi
 
