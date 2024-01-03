@@ -7,7 +7,7 @@ Rizkiku adalah platform konsultasi bisnis yang mempertemukan pelaku UMKM dengan 
 ## Fitur Utama
 
 - **Pencarian Konsultan Bisnis:** Temukan konsultan bisnis berdasarkan wilayah terdekat, keahlian, pengalaman, dan bidang spesifik.
-- - **Profil UMKM:** Profil lengkap UMKM dan deskripsi bisnis mereka
+- **Profil UMKM:** Profil lengkap UMKM dan deskripsi bisnis mereka
 - **Profil Konsultan:** Lihat profil lengkap konsultan, termasuk latar belakang, keahlian, dan ulasan pelanggan.
 - **Janji Temu** Buat janji temu dengan konsultan
 - **Pendaftaran Konsultan:** Mungkin bagi konsultan untuk mendaftar dan membuat profil mereka di platform.
