@@ -49,16 +49,6 @@ Rizkiku adalah platform konsultasi bisnis yang mempertemukan pelaku UMKM dengan 
    - Lakukan sesi konsultasi offline sesuai dengan jadwal yang telah diatur.
 
 
-
-## Lisensi
-
-Aplikasi Rizkiku dilisensikan di bawah [Lisensi MIT](LICENSE).
-
-
-## Kontribusi
-
-Jika Anda tertarik untuk berkontribusi pada pengembangan Rizkiku, kami mengundang Anda untuk berpartisipasi dalam proyek ini. Silakan lihat panduan kontribusi di [CONTRIBUTING.md](CONTRIBUTING.md) untuk informasi lebih lanjut.
-
 ## Lisensi
 
 Aplikasi Rizkiku dilisensikan di bawah [Lisensi MIT](LICENSE).
