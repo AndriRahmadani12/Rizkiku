@@ -62,7 +62,7 @@ Rizkiku adalah platform konsultasi bisnis yang mempertemukan pelaku UMKM dengan 
 3. **Admin:**
    - Akun admin memberikan akses kepada pengelola platform untuk mengelola dan memantau aktivitas di Rizkiku.
    - Admin bertanggung jawab untuk verifikasi akun konsultan, menangani isu teknis, dan menjaga keamanan dan integritas platform.
-   - 
+
 ## Lisensi
 
 Aplikasi Rizkiku dilisensikan di bawah [Lisensi MIT](LICENSE).
