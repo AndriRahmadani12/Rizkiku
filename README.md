@@ -26,14 +26,35 @@ Rizkiku adalah platform konsultasi bisnis yang mempertemukan pelaku UMKM dengan 
 3. **Jelajahi Konsultan atau Buat Permintaan Konsultasi:**
    - Pelaku UMKM dapat mencari konsultan atau membuat permintaan konsultasi sesuai kebutuhan mereka.
 
-4. **Atur Jadwal Konsultasi:**
-   - Gunakan sistem kalender untuk menentukan waktu konsultasi yang sesuai.
+4. **Ajukan Form Permohonan Konsultasi:**
+   - Setelah memilih konsultan, pelaku UMKM dapat mengisi formulir permohonan konsultasi yang mencakup:
+     - Tanggal yang diinginkan.
+     - Jam konsultasi yang diinginkan.
+     - Durasi yang diinginkan untuk sesi konsultasi.
+     - Deskripsi permasalahan atau topik yang akan dibahas.
 
-5. **Lakukan Konsultasi Online:**
-   - Terlibat dalam sesi konsultasi dengan konsultan melalui berbagai metode komunikasi.
+5. **Persetujuan Konsultan:**
+   - Konsultan akan menerima permohonan dan dapat menyetujui atau menolak sesi konsultasi.
+   - Jika disetujui, pelaku UMKM akan menerima notifikasi untuk melanjutkan ke proses pembayaran.
 
-6. **Pembayaran dan Konfirmasi:**
-   - Lakukan pembayaran sesi konsultasi dan konfirmasi transaksi.
+6. **Pembayaran:**
+   - Setelah persetujuan konsultan, pelaku UMKM dapat melanjutkan ke proses pembayaran.
+   - Sistem pembayaran online akan memandu pelaku UMKM melalui langkah-langkah pembayaran yang diperlukan.
+
+7. **Konfirmasi dan Persiapan Konsultasi:**
+   - Setelah pembayaran berhasil, pelaku UMKM akan menerima konfirmasi dan instruksi lebih lanjut untuk persiapan sesi konsultasi.
+
+8. **Sesi Konsultasi:**
+   - Lakukan sesi konsultasi online sesuai dengan jadwal yang telah diatur.
+
+## Kontribusi
+
+Jika Anda tertarik untuk berkontribusi pada pengembangan Rizkiku, kami mengundang Anda untuk berpartisipasi dalam proyek ini. Silakan lihat panduan kontribusi di [CONTRIBUTING.md](CONTRIBUTING.md) untuk informasi lebih lanjut.
+
+## Lisensi
+
+Aplikasi Rizkiku dilisensikan di bawah [Lisensi MIT](LICENSE).
+
 
 ## Kontribusi
 
